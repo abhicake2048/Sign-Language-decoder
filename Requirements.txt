@@ -1,0 +1,10 @@
+The libraries used are as follows:
+
+1. Mediapipe
+2. Pandas
+3. Numpy
+4. Keras
+5. Tensorflow
+6. Scikit-Learn
+7. Os
+
